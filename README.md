@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a passionate, results-oriented software developer with a deep love for turning complex problems into elegant, easy-to-use solutions. With great attention to detail, I bring more than 12 years of experience developing software applications using .NET, VB.NET, ASP.NET, .Net Core, Angular, Javascript, Jquery. I love challenges and now I work as a devops engineer in a sturtup, enhancing my previous experience, and using Kubernetes, Docker, Circle CI, Google Cloud Platform.
+
 <!--
 **caro1853/caro1853** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
